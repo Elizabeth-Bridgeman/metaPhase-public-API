@@ -1,3 +1,13 @@
+#using dist production-ready build
+
+To open the project, open index.html through an IDE that can spin up a local server (ie. WebStorm).
+
+OR
+
+see here: https://cli.vuejs.org/guide/deployment.html#previewing-locally
+
+
+
 # public-api-project
 
 ## Project setup
